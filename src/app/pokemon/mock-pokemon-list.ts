@@ -109,5 +109,14 @@ export const POKEMONS: Pokemon[] = [
         picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/037.png",
         types: ["Feu"],
         created: new Date()
+    },
+    {
+        id: 13,
+        name: "Entei",
+        hp: 170,
+        cp: 30,
+        picture: "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/244.png",
+        types: ["Feu"],
+        created: new Date()
     }
 ];
